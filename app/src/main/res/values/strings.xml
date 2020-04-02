@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VIPNotifier</string>
+    <string name="enable_vip_access">ENABLE VIP ACCESS</string>
+    <string name="vip_notifier">VIP Notifier</string>
+    <string name="remove">Remove</string>
+    <string name="submit">Submit</string>
+    <string name="add_remove_new_vip">Add/Remove New VIP</string>
+    <string name="current_vips">Current VIPs:</string>
+    <string name="clear_all_vips">Clear All VIPs</string>
+    <string name="submit_field">Type VIP Number Here</string>
+</resources>
